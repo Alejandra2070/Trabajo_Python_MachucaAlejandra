@@ -1,0 +1,16 @@
+[
+    {
+        "ventas": [
+            {
+                "id": 1,
+                "nombre": "Pan de bono",
+                "precio": 700
+            },
+            {
+                "id": 2,
+                "nombre": "Pan de Queso",
+                "precio": 800
+            }
+        ]
+    }
+]

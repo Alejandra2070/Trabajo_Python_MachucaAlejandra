@@ -3,13 +3,25 @@
         "ventas": [
             {
                 "id": 1,
-                "nombre": "Pan de bono",
-                "precio": 700
+                "nombreProducto": "Pan de bono",
+                "nombreCliente": "Liss",
+                "direccion": "Brisas de los Andes",
+                "fechaVenta": 5,
+                "precio": 700,
+                "cantidad": 2,
+                "nombreEmpleado": "Jhon",
+                "cargoEmpleado": "Cajero"
             },
             {
                 "id": 2,
-                "nombre": "Pan de Queso",
-                "precio": 800
+                "nombreProducto": "Pan de queso",
+                "nombreCliente": "Esperanza",
+                "direccion": "Brisas de los Andes",
+                "fechaVenta": 5,
+                "precio": 800,
+                "cantidad": 4,
+                "nombreEmpleado": "Danna",
+                "cargoEmpleado": "Cajera"
             }
         ]
     }

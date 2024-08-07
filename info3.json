@@ -1,0 +1,24 @@
+[
+    {
+        "Compras": [
+            {
+                "id": 1,
+                "nombre": "Pan Cascarita",
+                "precio": 500,
+                "fecha": 5,
+                "contacto": 320,
+                "cantidad": 2,
+                "nombreProveedor": "Javier"
+            },
+            {
+                "id": 2,
+                "fecha": 5,
+                "nombre": "k",
+                "contacto": 3,
+                "nombreProveedor": "p",
+                "cantidad": 2,
+                "precio": 3
+            }
+        ]
+    }
+]
